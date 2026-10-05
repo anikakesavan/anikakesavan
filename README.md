@@ -17,6 +17,9 @@ My projects span **machine learning**, **grounded AI**, and **interactive data**
 ![JavaScript](https://img.shields.io/badge/JavaScript-fde68a?style=for-the-badge&logo=javascript&logoColor=422006)
 ![HTML5](https://img.shields.io/badge/HTML5-fecdd3?style=for-the-badge&logo=html5&logoColor=881337)
 ![CSS3](https://img.shields.io/badge/CSS3-a5f3fc?style=for-the-badge&logo=css&logoColor=164e63)
+![React](https://img.shields.io/badge/React-bae6fd?style=for-the-badge&logo=react&logoColor=0c4a6e)
+![Azure](https://img.shields.io/badge/Azure-bfdbfe?style=for-the-badge&logoColor=1e3a8a)
+![Git](https://img.shields.io/badge/Git-fed7aa?style=for-the-badge&logo=git&logoColor=7c2d12)
 
 Python CLI tools · Jupyter notebooks · CNNs & transfer learning  
 ONNX browser inference · REST APIs · Canvas & SVG · Git & GitHub
