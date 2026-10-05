@@ -29,7 +29,7 @@ ONNX browser inference · REST APIs · Canvas & SVG · Git & GitHub
 
 | Project | What I built | Explore |
 | :--- | :--- | :--- |
-| **📄 [ResumeIQ](https://stresumeiqdevtvfzqa.z5.web.core.windows.net/welcome)** | A collaborative AI resume screener with Diya Kamboj: matches resumes to job descriptions, explains scores, and supports recruiter review. | [Live app ↗](https://stresumeiqdevtvfzqa.z5.web.core.windows.net/welcome) |
+| **📄 [ResumeIQ](https://github.com/diyakamboj/teamrocket)** | A group internship project with Team Rocket: an AI resume screener that matches resumes to job descriptions, explains scores, and supports recruiter review. | [Live app ↗](https://stresumeiqdevtvfzqa.z5.web.core.windows.net/welcome) |
 | **🔬 [Tissue Lab](https://github.com/anikakesavan/tissue-lab)** | Interactive tissue classification with a trained ONNX model running in the browser. Educational research demo. | [Live demo ↗](https://anikakesavan.github.io/tissue-lab/) |
 | **🌱 [Groundwork](https://github.com/anikakesavan/groundwork)** | An AI agent that searches, retrieves, and answers with linked sources. Bring your own API key. | [Live app ↗](https://anikakesavan.github.io/groundwork/) |
 | **🧭 [Compass17](https://github.com/anikakesavan/compass17)** | Explore sustainable development indicators and compare countries using live World Bank data. | [Live app ↗](https://anikakesavan.github.io/compass17/) |
